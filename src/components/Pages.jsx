@@ -15,73 +15,73 @@ import Plugins from "../assets/icons/Plugins.png";
 const Pages = () => {
   return (
     <div className="flex flex-col gap-y-1 mt-6">
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Home} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Home</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Orders} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Orders</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Products} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Products</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Delivery} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Delivery</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Marketing} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Marketing</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Analytics} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Analytics</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Payments} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Payments</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Tools} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Tools</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Discounts} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Discounts</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Audience} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Audience</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Appearance} alt="Home" />
         </div>
         <div className="font-inter text-grey text-[13px] font-medium">Appearance</div>
       </div>
-      <div className="flex flex-row gap-3 py-2 pl-4">
+      <div className="flex flex-row gap-3 py-2 pl-4 hover:bg-[#353C53] hover:rounded">
         <div className="w-5 h-5">
           <img src={Plugins} alt="Home" />
         </div>

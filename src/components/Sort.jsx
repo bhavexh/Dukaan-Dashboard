@@ -3,8 +3,8 @@ import sort from '../assets/icons/Sort.png'
 
 const Sort = () => {
   return (
-    <div className='flex flex-row gap-1.5 items-center px-3 py-1.5 border-2 rounded'>
-        <div className="font-inter text-[#4D4D4D] text-[16px] font-normal">
+    <div className='flex flex-row gap-1.5 items-center px-3 py-1.5 border-2 rounded hover:bg-grey'>
+        <div className="font-inter text-[#4D4D4D] text-[16px] font-normal ">
             Sort 
         </div>
         <div>   

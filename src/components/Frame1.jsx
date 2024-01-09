@@ -8,7 +8,7 @@ const Frame1 = () => {
         <div className="font-inter text-black text-[20px] font-medium">
           OverView
         </div>
-        <div className="flex flex-row items-center gap-1.5 px-3.5 border-2 rounded">
+        <div className="flex flex-row items-center gap-1.5 px-3.5 border-2 rounded hover:bg-grey">
           <div className="font-inter text-[#4D4D4D] text-[16px] font-normal"> Last Month</div>
           <div className="h-3 w-3 flex items-center">
             <img src={dropdown2} alt="dropdown" />
@@ -16,7 +16,7 @@ const Frame1 = () => {
         </div>
       </div>
       <div className="flex flex-row justify-between">
-        <div className="basis-1/2 p-5 mr-2.5 bg-white rounded-lg">
+        <div className="basis-1/2 p-5 mr-2.5 bg-white rounded-lg shadow-sm">
           <div className="flex flex-col item-start space-y-4">
             <div className="font-inter text-[#4D4D4D] text-[16px] font-regular">
               Online Orders
@@ -26,7 +26,7 @@ const Frame1 = () => {
             </div>
           </div>
         </div>
-        <div className="basis-1/2 p-5 ml-2.5 bg-white rounded-lg">
+        <div className="basis-1/2 p-5 ml-2.5 bg-white rounded-lg shadow-sm">
           <div className="flex flex-col item-start space-y-4">
             <div className="font-inter text-[#4D4D4D] text-[16px] font-regular">
               Amount received
