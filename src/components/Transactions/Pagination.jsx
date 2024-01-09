@@ -1,6 +1,6 @@
 import React from "react";
-import previous from "../assets/icons/previous.png";
-import next from "../assets/icons/next.png";
+import previous from "../../assets/icons/previous.png";
+import next from "../../assets/icons/next.png";
 
 const Pagination = () => {
   return (

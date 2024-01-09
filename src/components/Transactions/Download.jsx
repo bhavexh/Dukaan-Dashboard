@@ -1,5 +1,5 @@
 import React from 'react'
-import download from '../assets/icons/download.png'
+import download from '../../assets/icons/download.png'
 
 const Download = () => {
   return (

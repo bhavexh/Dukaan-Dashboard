@@ -1,5 +1,5 @@
 import React from "react";
-import dropdown2 from "../assets/icons/dropdown2.png";
+import dropdown2 from "../../assets/icons/dropdown2.png";
 
 const Frame1 = () => {
   return (

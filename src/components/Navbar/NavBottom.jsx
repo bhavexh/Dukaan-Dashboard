@@ -1,5 +1,5 @@
 import React from 'react'
-import wallet from '../assets/icons/wallet.png'
+import wallet from '../../assets/icons/wallet.png'
 
 const NavBottom = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import sort from '../assets/icons/Sort.png'
+import sort from '../../assets/icons/Sort.png'
 
 const Sort = () => {
   return (

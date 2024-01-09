@@ -1,16 +1,16 @@
 import React from "react";
-import Home from "../assets/icons/Home.png";
-import Orders from "../assets/icons/Order.png";
-import Products from "../assets/icons/Products.png";
-import Delivery from "../assets/icons/Delivery.png";
-import Marketing from "../assets/icons/Marketing.png";
-import Analytics from "../assets/icons/Analytics.png";
-import Payments from "../assets/icons/Payments.png";
-import Tools from "../assets/icons/Tools.png";
-import Discounts from "../assets/icons/Discount.png";
-import Audience from "../assets/icons/Audience.png";
-import Appearance from "../assets/icons/Appearance.png";
-import Plugins from "../assets/icons/Plugins.png";
+import Home from "../../assets/icons/Home.png";
+import Orders from "../../assets/icons/Order.png";
+import Products from "../../assets/icons/Products.png";
+import Delivery from "../../assets/icons/Delivery.png";
+import Marketing from "../../assets/icons/Marketing.png";
+import Analytics from "../../assets/icons/Analytics.png";
+import Payments from "../../assets/icons/Payments.png";
+import Tools from "../../assets/icons/Tools.png";
+import Discounts from "../../assets/icons/Discount.png";
+import Audience from "../../assets/icons/Audience.png";
+import Appearance from "../../assets/icons/Appearance.png";
+import Plugins from "../../assets/icons/Plugins.png";
 
 const Pages = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from "../assets/images/Logo.png";
-import dropdown3 from "../assets/icons/dropdown3.png";
+import Logo from "../../assets/images/Logo.png";
+import dropdown3 from "../../assets/icons/dropdown3.png";
 
 const CompanyName = () => {
   return (

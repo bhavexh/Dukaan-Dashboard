@@ -1,8 +1,8 @@
 import React from 'react'
-import Que from '../assets/icons/Question.png'
-import Search from '../assets/icons/Search.png'
-import Menu1 from '../assets/icons/Menu1.png'
-import Menu2 from '../assets/icons/Menu2.png'
+import Que from '../../assets/icons/Question.png'
+import Search from '../../assets/icons/Search.png'
+import Menu1 from '../../assets/icons/Menu1.png'
+import Menu2 from '../../assets/icons/Menu2.png'
 
 const Header = () => {
   return (
